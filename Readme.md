@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anna Vorontsova](https://up.htmlacademy.ru/htmlcss/15/user/245359).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Байдаров] (https://htmlacademy.ru/profile/4er).
 
 ---
 
